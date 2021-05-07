@@ -1,0 +1,19 @@
+Variables
+
+    Son los datos que se le asignan valores y estos pueden ser cambiados en lo sucesivo del programa. 
+
+Strings
+
+    Son las letras y no los números.
+
+Funciones (argumentos, return)
+
+    Son las indicaciones que se crean para llevar a cabo partes del programa.
+
+Declaraciones if
+
+    Son condiciones para realizar una u otra acción en el programa.
+
+Valores booleanos (true, false)
+
+    Son el resultado de las operaciones lógicas.
