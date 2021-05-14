@@ -1,0 +1,5 @@
+for
+    Es la palabra que su usa para iniciar un bucle lógico, que se vaya incrementando y comparando.
+&&, ||, !
+    Son los operadores lógicos que inlcuye a dos ó más sentencias y según la condición devuelve verdadero o falso.
+    
